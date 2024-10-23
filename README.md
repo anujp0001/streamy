@@ -58,7 +58,6 @@ To get started with the Streamy application, follow these steps:
     1. Clone the repository: git clone https://github.com/anujp0001/streamy.git
     2. Install the dependencies: npm install
     3. Start the application: npm start
-!
 ## 🤝 Contribution
 
 Contributions are always welcome!\
